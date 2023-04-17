@@ -29,9 +29,9 @@
 - SBERT : Sentence BERT
  ![image](https://user-images.githubusercontent.com/80932078/232371345-5b030eae-4454-4855-9b34-b944fd02834c.png)
  
- -Cosine Similarity
+ - Cosine Similarity
  
- -![image](https://user-images.githubusercontent.com/80932078/232371454-01000e33-5501-4259-b0f7-0ad260eb4262.png)
+ ![image](https://user-images.githubusercontent.com/80932078/232371454-01000e33-5501-4259-b0f7-0ad260eb4262.png)
 
  
  4. Modeling
